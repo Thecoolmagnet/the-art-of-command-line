@@ -6,7 +6,7 @@ Contributors are listed in alphabetical order by GitHub login.
 Some contributors are also assigned roles as maintainers.
 They have kindly agreed to review and help update future contributions for the translation or section they own.
 
-
+https://github.com/Thecoolmagnet
 
 *Maintainers*
 
